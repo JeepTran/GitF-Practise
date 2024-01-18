@@ -1,4 +1,4 @@
-Bài viết được chia làm ba Phầnần
+Bài viết được chia làm ba Phần
 
 Phần I: Những lênh Git cơ bản thường dùng.
 Phần II: Mẹo ghi nhớ lênh Git rất đơn giản.
